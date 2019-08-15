@@ -5,6 +5,7 @@
       <router-link to="/about">关于我们</router-link>
       <div class="app">
         <h1>第一个vue项目</h1>
+        <p>这是一个vue项目，你不要管，反正这个项目很大</p>
       </div>
     </div>
     <!-- <router-view/> -->
