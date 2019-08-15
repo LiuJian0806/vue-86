@@ -6,6 +6,7 @@
       <div class="app">
         <h1>第一个vue项目</h1>
         <p>这是一个vue项目，你不要管，反正这个项目很大</p>
+        <p>配置免密提交真的很难</p>
       </div>
     </div>
     <!-- <router-view/> -->
